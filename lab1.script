@@ -1,0 +1,131 @@
+Script started on 2015年03月10日 (週二) 15時55分08秒
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ whoami;pwd pwd[C[C[C
+F44026149
+/home/F44026149
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git config -l[K[K[K[K[K[K[K[K[K[K[K[K[Kwhoami; pwd[Kwhoami; pwd[K[K[K[K[K[K[K[K[K[K[Kgit config --global user.name "Sirius207"
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git config --global user.name "Sirius207"[C[1P "Sirius207"[1P "Sirius207"[1P "Sirius207"[1P "Sirius207"e "Sirius207"m "Sirius207"a "Sirius207"i "Sirius207"l "Sirius207"[C[C[C[C[C[C[C[C[C[C[C[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"o"c"e"a"b"[1P"n"u"s"1"1"0"3"4"@"g"m"a"i"l"."c"o"m"
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git config -l
+user.name=Sirius207
+user.email=oceanus11034@gmail.com
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ script lab1 [K.script
+Script started, file is lab1.script
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ whom[K[Komami; pwd[C[C[1@h[1P[C[C[C[1P[C[1@a[1P[C[C
+F44026149
+/home/F44026149
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git config -l
+user.name=Sirius207
+user.email=oceanus11034@gmail.com
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git clone[K[K[K[K[K[K init[K]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git init[K]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git init
+Initialized empty Git repository in /home/F44026149/.git/
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git config -l
+user.name=Sirius207
+user.email=oceanus11034@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git [K[K[K[Kwhoami; pwd
+F44026149
+/home/F44026149
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git config -l
+user.name=Sirius207
+user.email=oceanus11034@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ 
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git clone http://github.com/<[C[C[Cs://github.com/<[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cyour g[K[K[K[K[K[K[K[K[Km/<Siriu207>[K[C[1PSiriu207[C[C[C[C[C[C[C[C/lab1.git
+Cloning into 'lab1'...
+Username for 'https://github.com': fatal: could not read Username for 'https://github.com': No such file or directory
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ mkdir lab1[K[K[K[K[K[K[K[K[K[Kcat lab1.script
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ mkdo[Kir lab1
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ cd lab1[K[K[K[K[K[K[Kmkdir lab1cat lab1.scriptgit clone https://github.com/Siriu207/lab1.git
+Cloning into 'lab1'...
+Username for 'https://github.com': fatal: could not read Username for 'https://github.com': No such file or directory
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git init
+Reinitialized existing Git repository in /home/F44026149/.git/
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git initclone https://github.com/Siriu207/lab1.git
+Cloning into 'lab1'...
+Username for 'https://github.com': fatal: could not read Username for 'https://github.com': No such file or directory
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ [K]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git clone https://github.com/Siriu207/lab1.git[C[C[1P[1@g[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs207/lab1.git[C
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ exit
+Script done, file is lab1.script
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ cat lab1.script
+Script started on 2015年03月10日 (週二) 15時57分44秒
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ whom[K[Komami; pwd[C[C[1@h[1P[C[C[C[1P[C[1@a[1P[C[C
+F44026149
+/home/F44026149
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git config -l
+user.name=Sirius207
+user.email=oceanus11034@gmail.com
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git clone[K[K[K[K[K[K init[K]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git init[K]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git init
+Initialized empty Git repository in /home/F44026149/.git/
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git config -l
+user.name=Sirius207
+user.email=oceanus11034@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git [K[K[K[Kwhoami; pwd
+F44026149
+/home/F44026149
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git config -l
+user.name=Sirius207
+user.email=oceanus11034@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ 
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git clone http://github.com/<[C[C[Cs://github.com/<[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cyour g[K[K[K[K[K[K[K[K[Km/<Siriu207>[K[C[1PSiriu207[C[C[C[C[C[C[C[C/lab1.git
+Cloning into 'lab1'...
+Username for 'https://github.com': fatal: could not read Username for 'https://github.com': No such file or directory
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ mkdir lab1[K[K[K[K[K[K[K[K[K[Kcat lab1.script
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ mkdo[Kir lab1
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ cd lab1[K[K[K[K[K[K[Kmkdir lab1cat lab1.scriptgit clone https://github.com/Siriu207/lab1.git
+Cloning into 'lab1'...
+Username for 'https://github.com': fatal: could not read Username for 'https://github.com': No such file or directory
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git init
+Reinitialized existing Git repository in /home/F44026149/.git/
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git initclone https://github.com/Siriu207/lab1.git
+Cloning into 'lab1'...
+Username for 'https://github.com': fatal: could not read Username for 'https://github.com': No such file or directory
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ [K]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git clone https://github.com/Siriu207/lab1.git[C[C[1P[1@g[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs207/lab1.git[C
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 16時17分57秒
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ mv lab1.script lab1
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ git status
+# On branch master
+#
+# Initial commit
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.bash_history
+#	.bash_logout
+#	.bashrc
+#	.cache/
+#	.gitconfig
+#	.profile
+#	lab1/
+nothing added to commit but untracked files present (use "git add" to track)
+]0;F44026149@2015cpp: ~F44026149@2015cpp:~$ cd lab1
+]0;F44026149@2015cpp: ~/lab1F44026149@2015cpp:~/lab1$ git status
+# On branch master
+#
+# Initial commit
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	lab1.script
+nothing added to commit but untracked files present (use "git add" to track)
+]0;F44026149@2015cpp: ~/lab1F44026149@2015cpp:~/lab1$ git add lab1
